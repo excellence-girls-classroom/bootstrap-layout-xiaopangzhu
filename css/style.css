@@ -1,0 +1,13 @@
+.my-height{
+	height: 80px;
+	line-height: 80px;
+}
+.text1{
+	border:1px white solid;
+	border-bottom-color: black;
+	padding: 3px 10px;
+	width: 120px;
+}
+.my-fontfimary{
+	font-family: "微软雅黑";
+}
